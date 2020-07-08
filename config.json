@@ -1,0 +1,8 @@
+{
+    "LogPath": "C:/Users/Zaza/Desktop/test.txt",
+    "Port": "COM4",
+    "Temperature": true,
+    "Humidity": true,
+    "Presure": true,
+    "Delay": "1"
+}
